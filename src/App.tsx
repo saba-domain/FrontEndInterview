@@ -1,14 +1,15 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
+        <h1>Domain RTA skill practice</h1>
       </header>
+      <section className="App-section">
+        <h2>Add your solution here:</h2>
+      </section>
     </div>
   );
 }
